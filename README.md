@@ -1,4 +1,4 @@
-# Project live hoste on:-
+# Project live host on:-
 [https://wonderful-rock-056288f00.3.azurestaticapps.net](https://wonderful-rock-056288f00.3.azurestaticapps.net)
 
 # Azure Services:-
