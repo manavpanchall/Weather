@@ -5,10 +5,13 @@
 1. Static web Apps:-
 
 ![Screenshot 2023-09-29 103930](https://github.com/manavpanchall/Weather/assets/113839416/11875d55-948c-4c56-8f32-b327da3a790f)
+2. Web Apps:-
+
+![Screenshot 2023-09-30 203021](https://github.com/manavpanchall/Weather/assets/113839416/f4dbe6ff-250f-4ebc-afda-23e130a43599)
 
 
 # Project Demo
-
+https://drive.google.com/file/d/1i29dAMSntffQIN7ihF1oCFzEfCgXBveh/view?usp=drivesdk
 
 
 
