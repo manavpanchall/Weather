@@ -1,5 +1,6 @@
-# Project live host on:-
+# Project live host on Microsoft Azure and Vercel:-
 [https://wonderful-rock-056288f00.3.azurestaticapps.net](https://wonderful-rock-056288f00.3.azurestaticapps.net)
+https://react-app-weatherapp.vercel.app/
 
 # Azure Services:-
 1. Static web Apps:-
@@ -17,7 +18,7 @@ https://drive.google.com/file/d/1i29dAMSntffQIN7ihF1oCFzEfCgXBveh/view?usp=drive
 
 # Getting Started with Create React App
 
-This project was bootstrapped with (https://github.com/fireclint/weather-app-react).
+live hosted on: https://react-app-weatherapp.vercel.app/
 
 ## Available Scripts
 
